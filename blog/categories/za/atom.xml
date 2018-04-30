@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: 杂 | My Octopress Blog]]></title>
-  <link href="http://ycicishredder.github.io/blog/categories/za/atom.xml" rel="self"/>
-  <link href="http://ycicishredder.github.io/"/>
-  <updated>2018-04-30T12:23:07+08:00</updated>
-  <id>http://ycicishredder.github.io/</id>
+  <title><![CDATA[Category: 杂 | Never Over]]></title>
+  <link href="http://cicishredder.github.io/blog/categories/za/atom.xml" rel="self"/>
+  <link href="http://cicishredder.github.io/"/>
+  <updated>2018-04-30T13:02:19+08:00</updated>
+  <id>http://cicishredder.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[cicishredder]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[第一篇博客]]></title>
-    <link href="http://ycicishredder.github.io/blog/2018/04/30/first-blog/"/>
+    <link href="http://cicishredder.github.io/blog/2018/04/30/first-blog/"/>
     <updated>2018-04-30T00:17:17+08:00</updated>
-    <id>http://ycicishredder.github.io/blog/2018/04/30/first-blog</id>
+    <id>http://cicishredder.github.io/blog/2018/04/30/first-blog</id>
     <content type="html"><![CDATA[<h1>你好第一篇博客</h1>
 
 <h2>第一次尝试</h2>
