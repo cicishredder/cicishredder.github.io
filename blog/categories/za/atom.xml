@@ -4,7 +4,7 @@
   <title><![CDATA[Category: 杂 | Never Over]]></title>
   <link href="http://cicishredder.github.io/blog/categories/za/atom.xml" rel="self"/>
   <link href="http://cicishredder.github.io/"/>
-  <updated>2018-04-30T22:37:10+08:00</updated>
+  <updated>2018-04-30T23:09:11+08:00</updated>
   <id>http://cicishredder.github.io/</id>
   <author>
     <name><![CDATA[cicishredder]]></name>
@@ -14,15 +14,19 @@
 
   
   <entry>
-    <title type="html"><![CDATA[第一篇博客]]></title>
+    <title type="html"><![CDATA[octopress搭建自己的博客]]></title>
     <link href="http://cicishredder.github.io/blog/2018/04/30/first-blog/"/>
     <updated>2018-04-30T00:17:17+08:00</updated>
     <id>http://cicishredder.github.io/blog/2018/04/30/first-blog</id>
-    <content type="html"><![CDATA[<h1>你好第一篇博客</h1>
+    <content type="html"><![CDATA[<h1>#一级标题</h1>
 
-<h2>第一次尝试</h2>
+<h2>##二级标题</h2>
 
-<h3>hello</h3>
+<h3>创建博客 rake new_post[&ldquo;title&rdquo;]</h3>
+
+<h3>创建单页面 rake new_page[pageName] /source/pageName/index.markdown</h3>
+
+<h3>创建单页面 rake new_page[pageName/page.html] /source/pageName/page.html</h3>
 ]]></content>
   </entry>
   
