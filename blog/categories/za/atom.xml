@@ -4,7 +4,7 @@
   <title><![CDATA[Category: 杂 | Never Over]]></title>
   <link href="http://cicishredder.github.io/blog/categories/za/atom.xml" rel="self"/>
   <link href="http://cicishredder.github.io/"/>
-  <updated>2018-04-30T23:31:31+08:00</updated>
+  <updated>2018-04-30T23:32:38+08:00</updated>
   <id>http://cicishredder.github.io/</id>
   <author>
     <name><![CDATA[cicishredder]]></name>
@@ -61,17 +61,14 @@
 @end
 </code></pre>
 
-<p>```objc this is objc www.baidu.com link
-@implementation</p>
+<pre><code class="objc this is objc www.baidu.com link">@implementation 
 
-<ul>
-<li>(void)test{
-  NSLog(@&ldquo;hello world&rdquo;);
-}</li>
-</ul>
+- (void)test{
+    NSLog(@"hello world");
+}
 
-
-<p>@end</p>
+@end
+</code></pre>
 ]]></content>
   </entry>
   
