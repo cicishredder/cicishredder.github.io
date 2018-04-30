@@ -4,7 +4,7 @@
   <title><![CDATA[Category: 杂 | Never Over]]></title>
   <link href="http://cicishredder.github.io/blog/categories/za/atom.xml" rel="self"/>
   <link href="http://cicishredder.github.io/"/>
-  <updated>2018-04-30T23:09:11+08:00</updated>
+  <updated>2018-04-30T23:22:25+08:00</updated>
   <id>http://cicishredder.github.io/</id>
   <author>
     <name><![CDATA[cicishredder]]></name>
@@ -27,6 +27,39 @@
 <h3>创建单页面 rake new_page[pageName] /source/pageName/index.markdown</h3>
 
 <h3>创建单页面 rake new_page[pageName/page.html] /source/pageName/page.html</h3>
+
+<h4>markdown语法</h4>
+
+<p><strong> 加粗 </strong></p>
+
+<p><code>标亮</code></p>
+
+<ul>
+<li>iOS
+
+<ul>
+<li>iOS1</li>
+<li>iOS2</li>
+</ul>
+</li>
+<li>Android</li>
+</ul>
+
+
+<blockquote><p>引用</p></blockquote>
+
+<p><a href="http://www.baidu.com">baidu</a></p>
+
+<p><img src="https://timgsa.baidu.com/timg?image&amp;quality=80&amp;size=b9999_10000&amp;sec=1525111480854&amp;di=5c18376fd4a0d4f3e0e6736dc8c4d483&amp;imgtype=0&amp;src=http%3A%2F%2Fimgsrc.baidu.com%2Fimage%2Fc0%253Dshijue1%252C0%252C0%252C294%252C40%2Fsign%3D214c944db919ebc4d4757edaea4fa589%2Fb64543a98226cffc466a149ab3014a90f603ea52.jpg" alt="图片" /></p>
+
+<pre><code>@implementation 
+
+- (void)test{
+    NSLog(@"hello world");
+}
+
+@end
+</code></pre>
 ]]></content>
   </entry>
   
